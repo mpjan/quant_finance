@@ -1,7 +1,5 @@
 # quant_finance
 
-## Description
-
 This repo is a collection of personal experiments as I learn more about data science and quantitative finance.
 
 ## Index
